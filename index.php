@@ -21,10 +21,14 @@ and open the template in the editor.
             public function cognom() {
                 return "cabello";
             }
+            
             public function edat() {
                 return "23";
             }
-        
+            
+            public function fantasma() {
+                return "";
+            }
             
             
         }
