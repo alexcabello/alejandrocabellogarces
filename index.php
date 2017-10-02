@@ -27,7 +27,7 @@ and open the template in the editor.
             }
             
             public function fantasma() {
-                return "fantasma";
+                return "*11*";
             }
             
             
