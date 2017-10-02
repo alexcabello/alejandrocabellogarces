@@ -18,6 +18,12 @@ and open the template in the editor.
                 return "alex";
             }
         
+            public function cognom() {
+                return "cabello";
+            }
+
+            
+            
         }
         
         
