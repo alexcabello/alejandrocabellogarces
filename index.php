@@ -26,7 +26,10 @@ and open the template in the editor.
                 return "23";
             }
             
-          
+            public function fantasma() {
+                return "*11*";
+            }
+            
             
         }
         
